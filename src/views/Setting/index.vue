@@ -559,7 +559,6 @@ const {
   bottomLyricShow,
   downloadPath,
   memorySeek,
-  showGithub,
   playCoverType,
   playSearch,
 } = storeToRefs(settings);
